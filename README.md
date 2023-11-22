@@ -8,4 +8,4 @@ Basic Rust Yew project, with a simple counter.
 trunk serve
 ```
 
-[home](https://github.com/Alexanderdunlop/rust-yew/home.png)
+![home](https://github.com/Alexanderdunlop/rust-yew/home.png)
